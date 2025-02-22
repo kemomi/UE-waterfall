@@ -1,0 +1,20 @@
+{
+    "sections": [
+      {
+        "type": "hero",
+        "title": "下一代实时3D创作工具",
+        "background": "/assets/hero-bg.mp4"
+      },
+      {
+        "type": "card",
+        "category": "news",
+        "items": [
+          {
+            "title": "Unreal Engine 5.3发布",
+            "preview": "/news/ue5-3-update.jpg",
+            "tags": ["release", "nanite"]
+          }
+        ]
+      }
+    ]
+}
